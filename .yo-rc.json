@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "app-name": "health",
+    "architecture": "flux",
+    "styles-language": "sass",
+    "component-suffix": "js"
+  }
+}
